@@ -1,0 +1,4 @@
+import streamlit as st
+
+st.title("NBA Predictor")
+st.write("🚀 Hello from Streamlit!")
